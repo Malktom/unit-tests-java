@@ -23,6 +23,7 @@ class AccountTest {
 
     }
 
+
     @Test
     void activatedAccountShouldHaveActiveFlagSet() {
 
